@@ -11,5 +11,3 @@ This app is created as a sample app which loads players from the [balldontlie] a
 - Kotlin [Coroutines]
 - [Flow] 
 
-# Further Readings
-- [How to Use the Paging Library in Android] 
